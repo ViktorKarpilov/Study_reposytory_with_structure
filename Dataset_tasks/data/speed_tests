@@ -1,0 +1,4 @@
+max_speed,range,light_numbers,light_distance,light_duration,result_speed
+50,1,200,15,50
+50,1,200,100,36
+90,3,3000,3,90
